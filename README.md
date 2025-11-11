@@ -1,2 +1,2 @@
-# Python-Projects
-Repo to hold Python project Practice
+# Notebook Application
+Designed a notebook with CRUD functionality while utilising the OS. Coded in Python.
